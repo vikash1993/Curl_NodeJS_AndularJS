@@ -1,0 +1,17 @@
+1.Install dependency requerment for your package:
+	#npm install
+2.Server start command:
+	# node server.js
+	#nodemon server.js
+3.API info
+ @GET :-
+	localhost:3000/index
+ @#single data info by Id
+	localhost:3000/index/id
+ @POST :-
+	localhost:3000/index
+ @PUT :-
+	localhost:3000/index/id
+ @DELETE :-
+	localhost:3000/index/id
+

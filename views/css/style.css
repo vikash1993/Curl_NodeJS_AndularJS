@@ -1,0 +1,20 @@
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.space{
+	margin-top: 30px;
+}
+
+.form_space{
+	margin-top: 5px;
+}
+
+.addButton{
+	width: 15%;
+}
+
+#todo-list{
+	margin-top: 40px;
+}
